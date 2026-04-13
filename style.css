@@ -1,0 +1,33 @@
+body{
+    background-color: #d4bb91;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color: #03032f;
+    font-style: normal;
+    font-family: rockwell;
+    font-size: 70px;
+    background-color: rgb(111, 185, 208);
+    height: 5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;font-style: oblique;
+}
+h2{
+    font-size: 40px;
+    font-family: Georgia, Cooper;
+    color: #0e0334;
+    text-align: center;
+}
+main{
+    font-size: 18px;
+    text-align: center;
+    background-color:#f1ddbe;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+form{
+    background-color: #f1ddbe;
+}
